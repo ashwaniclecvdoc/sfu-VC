@@ -70,7 +70,7 @@ module.exports = {
         {
           ip: '0.0.0.0',
           // announcedIp: getLocalIp() // replace by public IP address
-          announcedIp: '13.233.29.254' // replace by public IP address
+          announcedIp: 'https://vc.clevdoc.com' // replace by public IP address
         }
       ],
       maxIncomingBitrate: 1500000,
